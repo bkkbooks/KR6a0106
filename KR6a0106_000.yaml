@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0106/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說水沫所漂經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0106.xml
+    old_id: T02n0106
+hash: sha256:a5b4c68c155730b324fe4c556d341de26e1954c4821411f5edf190e675a33ac5
