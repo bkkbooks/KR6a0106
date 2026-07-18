@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0106_000-T.yaml, hash: 'sha256:a5b4c68c155730b324fe4c556d341de26e1954c4821411f5edf190e675a33ac5'}
   - {seq: 1, filename: KR6a0106_001-T.yaml, hash: 'sha256:5a2f868709ae723e848e896a561642d0ea4bc6106fb6b32650cbf21028a8f971'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0106_000-T.markers.yaml, hash: 'sha256:5c1cad5be232ea74f068acfe3e9e72f345f357d1ee9f1cf67f09105ffd197a0b'}
+  - {seq: 0, role: markers, filename: assets/KR6a0106_000-T.markers.yaml, hash: 'sha256:b494746707e84d48ac646586505acfe5ca053c56dd6f87550c936ab5bbe097dc'}
   - {seq: 1, role: markers, filename: assets/KR6a0106_001-T.markers.yaml, hash: 'sha256:50e4c938e473052e5aed60a6eef9b1fce00b8b5b0457ded470e804451defdd93'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說水沫所漂經
   type: juan
   level: 1
-hash: sha256:c656925f474f9b908f5fab8c5ac58e9ced4b8a4c0d26c80850f8c690a76c7057
+hash: sha256:2bd899855ce2d934406618a085e0b7f5405e4f11d594b47f1738388e2260ffad
